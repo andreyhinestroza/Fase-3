@@ -1,0 +1,8 @@
+body{
+	background-color: #A9D0F5;
+}
+.slider li img {
+    width: 50%;
+    height: 50%;
+    align-content: center;
+}
